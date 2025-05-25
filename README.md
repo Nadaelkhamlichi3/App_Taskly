@@ -1,7 +1,7 @@
 # 🚀 Taskly – Gestionnaire intelligent de tâches et projets collaboratifs
 
 Bienvenue sur **Taskly**, une application conçue pour simplifier la gestion de projets et booster la productivité des équipes.  
-Développée en binôme avec Essouiri Aya, Taskly offre une interface intuitive, moderne et complète pour organiser efficacement vos tâches et collaborer facilement.
+Taskly offre une interface intuitive, moderne et complète pour organiser efficacement vos tâches et collaborer facilement.
 
 ## 👥 Fonctionnalités principales:
 
